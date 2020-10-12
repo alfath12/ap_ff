@@ -1,0 +1,575 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+      
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "openads":"ca-app-pub-3940256099942544/1033173712",
+        "interval": 6,
+        "pengaturan_iklan":"1",
+        
+        "fan_inter":"#",
+        "fan_banner_native":"#",
+
+        "inmobi_inter":"#",
+        "inmobi_banner":"#",
+        "inmobi_id":"#",
+        
+        "startaap":"1234567890",
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+
+        }
+    ],
+
+"More":
+  [ 
+  {
+    "id":1,
+    "judul":"Mobile Legend Wallpapers 4K",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/0aee492fe5bd456b889dd96b434375ac.png",
+    "link":"https://appgallery.huawei.com/#/app/C102987745"
+  },
+  {
+    "id":2,
+    "judul":"Brawlhalla Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/25057520e59a4496838b0c864fbca6bb.png",
+    "link":"https://appgallery.huawei.com/#/app/C102703635"
+  },
+  {
+    "id":3,
+    "judul":"Dragon Ball Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/2e6ed1f35e21475e8c8c25ba86d8beba.png",
+    "link":"https://appgallery.huawei.com/#/app/C102976603"
+  },
+  {
+    "id":4,
+    "judul":"Cute Ice Cream Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/7d2e06bbeffd46b194bb4a9a1f72fd4a.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575731"
+  },
+  {
+    "id":5,
+    "judul":"Cute Panda Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/c897b38d88e94a16b0e2fc166ac29a03.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575711"
+  },
+  {
+    "id":6,
+    "judul":"Cute BT21 Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/16b0b4ddd754423bbf46509ebe8b7f47.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575721"
+  },
+  {
+    "id":7,
+    "judul":"Cute Kawaii Bunny Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/17cedde84c45490ab11c0677724fe0de.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575733"
+  },
+  {
+    "id":8,
+    "judul":"Cute Gacha Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/9f411ada057546b6b5598e3fdc3f5292.png",
+    "link":"https://appgallery.huawei.com/#/app/C102575745"
+  },
+  {
+    "id":9,
+    "judul":"Cute Hello Kitty Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/fa5da001636b4b7caab21d908390ab4c.png",
+    "link":"https://appgallery.huawei.com/#/app/C102984609"
+  },
+  {
+    "id":10,
+    "judul":"Among Us Wallpapers",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/891f12ce71a94fbab6e7869a52caae10.png",
+    "link":"https://appgallery.huawei.com/#/app/C102999935"
+  },
+  {
+    "id":11,
+    "judul":"Sticker Happy New Year 2021",
+    "image":"https://lh3.googleusercontent.com/VLSqowglMMqGguPNgvppQ8RairTr5gxaFkSKHzq8eq7LussCI6ErruBYJvt0glbJq9uZ=s360",
+    "link":"https://play.google.com/store/apps/details?id=com.goplaytones.stickermemojihappynewyear2021wastickerapps"
+  },
+  {
+    "id":12,
+    "judul":"2021 Photo Frame New Year",
+    "image":"https://lh3.googleusercontent.com/nlW2IpeoKUpg2KmS7ldcaz4PjptwGIdU141PS6svz7weYqYcwM04ClJ3wlReM_ctXFUd=s360",
+    "link":"https://play.google.com/store/apps/details?id=com.goplaytones.bingkaifototahunbaru2021happynewyear"
+  },
+  {
+    "id":13,
+    "judul":"Joker Wallpapers HD",
+    "image":"https://appimg2.dbankcdn.com/application/icon144/65/4f169835a67742d792a61fc5139cff05.png",
+    "link":"https://appgallery.huawei.com/#/app/C103002635"
+  }
+
+  ],
+  
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Free Fire Garena 1",
+      "gambar": "https://freefire.onl/wp-content/gallery/mobile/mwp1.jpg"
+     
+    },
+    {
+      "id": 2,
+      "nama_cat": "Free Fire Garena 2",
+      "gambar": "https://freefire.onl/wp-content/gallery/mobile/mwp4.jpg"
+    
+    },
+    {
+      "id": 3,
+      "nama_cat": "Free Fire Garena 3",
+      "gambar": "https://freefire.onl/wp-content/gallery/mobile/mwp5.jpg"
+    
+    },
+	{
+      "id": 4,
+      "nama_cat": "Free Fire Garena 4",
+      "gambar": "https://freefire.onl/wp-content/gallery/mobile/mwp6.jpg"
+     
+    },
+    {
+      "id": 5,
+      "nama_cat": "Free Fire Garena 5",
+      "gambar": "https://freefire.onl/wp-content/gallery/mobile/mwp10.jpg"
+    
+    },
+    {
+      "id": 6,
+      "nama_cat": "Free Fire Garena 6",
+      "gambar": "https://freefire.onl/wp-content/gallery/mobile/mwp11.jpg"
+    
+    }
+  ],
+
+  "Wallpaper":
+  [ 
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "Free Fire Garena 1",
+      "judul":"AImage 1",
+      "image":"https://i.pinimg.com/564x/a7/2e/a4/a72ea4ece07247a9f1929080a7996317.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "Free Fire Garena 1",
+      "judul":"AImage 2",
+      "image":"https://i.pinimg.com/564x/ce/7c/e1/ce7ce12f3812083a13a1e5de1eeb1de4.jpg"
+    },
+    {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "Free Fire Garena 1",
+      "judul":"AImage 3",
+      "image":"https://i.pinimg.com/564x/f2/3f/76/f23f76c3f3f7b1b4f822ca3981a722fa.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "Free Fire Garena 1",
+      "judul":"AImage 4",
+      "image":"https://i.pinimg.com/564x/b2/52/20/b25220c83c84d44196ccdb37dd181841.jpg"
+    },
+    {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "Free Fire Garena 1",
+      "judul":"AImage 5",
+      "image":"https://i.pinimg.com/564x/f6/0c/8b/f60c8ba5d6d27d8b01128c35387888cf.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "Free Fire Garena 1",
+      "judul":"AImage 6",
+      "image":"https://i.pinimg.com/564x/de/a3/a8/dea3a8de3b3abb4653cf781ae77d84e4.jpg"
+    },
+	{
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "Free Fire Garena 1",
+      "judul":"AImage 7",
+      "image":"https://i.pinimg.com/474x/49/3e/cc/493eccb12eb5c4f0a8cf68e212ae5ef4.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "Free Fire Garena 1",
+      "judul":"AImage 8",
+      "image":"https://i.pinimg.com/564x/04/93/f0/0493f0cf94b542c47e9cc6df1d7ba321.jpg"
+    },
+    {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "Free Fire Garena 1",
+      "judul":"AImage 9",
+      "image":"https://i.pinimg.com/564x/1b/c7/94/1bc794f8a5037f8806c85eded202b8b6.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "Free Fire Garena 1",
+      "judul":"AImage 10",
+      "image":"https://i.pinimg.com/564x/7c/f1/04/7cf104985d59affb3641a533ecc68bad.jpg"
+    },
+	{
+      "id":21,
+      "id_wall":"021",
+      "nama_cat": "Free Fire Garena 2",
+      "judul":"BImage 1",
+      "image":"https://i.pinimg.com/564x/51/bc/9a/51bc9af1763934cc8788f03cbb71d93f.jpg"
+    },
+    {
+      "id":22,
+      "id_wall":"022",
+      "nama_cat": "Free Fire Garena 2",
+      "judul":"BImage 2",
+      "image":"https://i.pinimg.com/564x/78/0a/ca/780aca4dda69764b32af484f72198f07.jpg"
+    },
+    {
+      "id":23,
+      "id_wall":"023",
+      "nama_cat": "Free Fire Garena 2",
+      "judul":"BImage 3",
+      "image":"https://i.pinimg.com/564x/90/e1/aa/90e1aaac4a6d892f1162c8bd523484d8.jpg"
+    },
+    {
+      "id":24,
+      "id_wall":"024",
+      "nama_cat": "Free Fire Garena 2",
+      "judul":"BImage 4",
+      "image":"https://i.pinimg.com/564x/f2/07/9a/f2079a18080a5d54dc556d3063ee46cf.jpg"
+    },
+    {
+      "id":25,
+      "id_wall":"025",
+      "nama_cat": "Free Fire Garena 2",
+      "judul":"BImage 5",
+      "image":"https://i.pinimg.com/564x/5e/17/7e/5e177e4d29be4952dc1eb78ca55435c2.jpg"
+    },
+    {
+      "id":26,
+      "id_wall":"026",
+      "nama_cat": "Free Fire Garena 2",
+      "judul":"BImage 6",
+      "image":"https://i.pinimg.com/564x/a7/7b/ac/a77bacea9c1f0e46a29908207570def5.jpg"
+    },
+	{
+      "id":27,
+      "id_wall":"027",
+      "nama_cat": "Free Fire Garena 2",
+      "judul":"BImage 7",
+      "image":"https://i.pinimg.com/564x/33/9b/63/339b63ffda099d33fa3adafdc0be1b08.jpg"
+    },
+    {
+      "id":28,
+      "id_wall":"028",
+      "nama_cat": "Free Fire Garena 2",
+      "judul":"BImage 8",
+      "image":"https://i.pinimg.com/564x/29/79/71/297971ec1776554dcfa9550f1a639602.jpg"
+    },
+    {
+      "id":29,
+      "id_wall":"029",
+      "nama_cat": "Free Fire Garena 2",
+      "judul":"BImage 9",
+      "image":"https://i.pinimg.com/564x/6d/41/46/6d4146d2cd59ab51048675c90ef4aa59.jpg"
+    },
+    {
+      "id":30,
+      "id_wall":"030",
+      "nama_cat": "Free Fire Garena 2",
+      "judul":"BImage 10",
+      "image":"https://i.pinimg.com/564x/fc/fb/be/fcfbbe68df4a2cc2032567322899eaa1.jpg"
+    },
+	{
+      "id":41,
+      "id_wall":"041",
+      "nama_cat": "Free Fire Garena 3",
+      "judul":"CImage 1",
+      "image":"https://i.pinimg.com/564x/ac/dd/72/acdd7225db5ba3d9cad01ce14fd165ec.jpg"
+    },
+    {
+      "id":42,
+      "id_wall":"042",
+      "nama_cat": "Free Fire Garena 3",
+      "judul":"CImage 2",
+      "image":"https://i.pinimg.com/564x/4c/5b/ec/4c5bec6914af673ed5d54c75462c490f.jpg"
+    },
+    {
+      "id":43,
+      "id_wall":"043",
+      "nama_cat": "Free Fire Garena 3",
+      "judul":"CImage 3",
+      "image":"https://i.pinimg.com/564x/db/7f/92/db7f92ccd17c169cd27f91238faa6b3c.jpg"
+    },
+    {
+      "id":44,
+      "id_wall":"044",
+      "nama_cat": "Free Fire Garena 3",
+      "judul":"CImage 4",
+      "image":"https://i.pinimg.com/564x/0d/9c/e5/0d9ce5fb28fe7edf65e9876ed9063292.jpg"
+    },
+    {
+      "id":45,
+      "id_wall":"045",
+      "nama_cat": "Free Fire Garena 3",
+      "judul":"CImage 5",
+      "image":"https://i.pinimg.com/564x/3c/e1/9b/3ce19b3f748adc136efadd63f3beac32.jpg"
+    },
+    {
+      "id":46,
+      "id_wall":"046",
+      "nama_cat": "Free Fire Garena 3",
+      "judul":"CImage 6",
+      "image":"https://i.pinimg.com/564x/84/3b/5b/843b5beeeeec078b8abb22d1220abf63.jpg"
+    },
+	{
+      "id":47,
+      "id_wall":"047",
+      "nama_cat": "Free Fire Garena 3",
+      "judul":"CImage 7",
+      "image":"https://i.pinimg.com/564x/1e/cc/fb/1eccfb88c039e10d00d1c0ea70de68aa.jpg"
+    },
+    {
+      "id":48,
+      "id_wall":"048",
+      "nama_cat": "Free Fire Garena 3",
+      "judul":"CImage 8",
+      "image":"https://i.pinimg.com/564x/ad/d8/ef/add8ef259eef16fd3cb5ef0bbe852a92.jpg"
+    },
+    {
+      "id":49,
+      "id_wall":"049",
+      "nama_cat": "Free Fire Garena 3",
+      "judul":"CImage 9",
+      "image":"https://i.pinimg.com/564x/ac/58/b2/ac58b235ed8f9045061425c6c64a2a93.jpg"
+    },
+    {
+      "id":50,
+      "id_wall":"050",
+      "nama_cat": "Free Fire Garena 3",
+      "judul":"CImage 10",
+      "image":"https://i.pinimg.com/564x/14/ce/d7/14ced7c31a04e955a707af6d4bc2b712.jpg"
+    },
+	{
+      "id":61,
+      "id_wall":"061",
+      "nama_cat": "Free Fire Garena 4",
+      "judul":"DImage 1",
+      "image":"https://i.pinimg.com/564x/ac/eb/21/aceb2155bd107d9b31b682e10846054d.jpg"
+    },
+    {
+      "id":62,
+      "id_wall":"062",
+      "nama_cat": "Free Fire Garena 4",
+      "judul":"DImage 2",
+      "image":"https://i.pinimg.com/564x/7e/d7/52/7ed752fe32bd47ee725b28fcb6b0631f.jpg"
+    },
+    {
+      "id":63,
+      "id_wall":"063",
+      "nama_cat": "Free Fire Garena 4",
+      "judul":"DImage 3",
+      "image":"https://i.pinimg.com/564x/2b/e8/6e/2be86ea13e197596c406d2ac75003cdf.jpg"
+    },
+    {
+      "id":64,
+      "id_wall":"064",
+      "nama_cat": "Free Fire Garena 4",
+      "judul":"DImage 4",
+      "image":"https://i.pinimg.com/564x/48/6e/63/486e6371841df4282340554caa8be121.jpg"
+    },
+    {
+      "id":65,
+      "id_wall":"065",
+      "nama_cat": "Free Fire Garena 4",
+      "judul":"DImage 5",
+      "image":"https://i.pinimg.com/564x/f7/e5/fb/f7e5fb712a466268fcdd5b503d7eede4.jpg"
+    },
+    {
+      "id":66,
+      "id_wall":"066",
+      "nama_cat": "Free Fire Garena 4",
+      "judul":"DImage 6",
+      "image":"https://i.pinimg.com/564x/06/39/2f/06392f665c3bc6e09ff532bcddfee670.jpg"
+    },
+	{
+      "id":67,
+      "id_wall":"067",
+      "nama_cat": "Free Fire Garena 4",
+      "judul":"DImage 7",
+      "image":"https://i.pinimg.com/564x/fe/6f/a7/fe6fa7625a0578d45193c0603d2cd5a8.jpg"
+    },
+    {
+      "id":68,
+      "id_wall":"068",
+      "nama_cat": "Free Fire Garena 4",
+      "judul":"DImage 8",
+      "image":"https://i.pinimg.com/564x/d8/34/8f/d8348f2eebb792cbb104492d28bb20d4.jpg"
+    },
+    {
+      "id":69,
+      "id_wall":"069",
+      "nama_cat": "Free Fire Garena 4",
+      "judul":"DImage 9",
+      "image":"https://i.pinimg.com/564x/c3/7c/6c/c37c6cc9fe0d98bf9dcf8e7edb3edba4.jpg"
+    },
+    {
+      "id":70,
+      "id_wall":"070",
+      "nama_cat": "Free Fire Garena 4",
+      "judul":"DImage 10",
+      "image":"https://i.pinimg.com/564x/bf/91/12/bf911239ad00012cd689c01ff2dd6d67.jpg"
+    },
+	{
+      "id":81,
+      "id_wall":"081",
+      "nama_cat": "Free Fire Garena 5",
+      "judul":"EImage 1",
+      "image":"https://i.pinimg.com/564x/51/44/65/514465cf9a9ffd7190734d245aa510f0.jpg"
+    },
+    {
+      "id":82,
+      "id_wall":"082",
+      "nama_cat": "Free Fire Garena 5",
+      "judul":"EImage 2",
+      "image":"https://i.pinimg.com/564x/7f/7f/8c/7f7f8c04aa0ab123ff59209f68c401ba.jpg"
+    },
+    {
+      "id":83,
+      "id_wall":"083",
+      "nama_cat": "Free Fire Garena 5",
+      "judul":"EImage 3",
+      "image":"https://i.pinimg.com/564x/44/d4/f6/44d4f6234e0f726b0ba925b104f47f19.jpg"
+    },
+    {
+      "id":84,
+      "id_wall":"084",
+      "nama_cat": "Free Fire Garena 5",
+      "judul":"EImage 4",
+      "image":"https://i.pinimg.com/564x/84/ff/88/84ff88e19dbf1dc778c0d3dbcab19af7.jpg"
+    },
+    {
+      "id":85,
+      "id_wall":"085",
+      "nama_cat": "Free Fire Garena 5",
+      "judul":"EImage 5",
+      "image":"https://i.pinimg.com/564x/e1/ad/99/e1ad99d4de4234ded01f894549bb647f.jpg"
+    },
+    {
+      "id":86,
+      "id_wall":"086",
+      "nama_cat": "Free Fire Garena 5",
+      "judul":"EImage 6",
+      "image":"https://i.pinimg.com/564x/38/1a/83/381a8344b164eab89425cdf7be5216da.jpg"
+    },
+	{
+      "id":87,
+      "id_wall":"087",
+      "nama_cat": "Free Fire Garena 5",
+      "judul":"EImage 7",
+      "image":"https://i.pinimg.com/564x/09/c3/35/09c33588c11e29f1b6cc5a3005180dca.jpg"
+    },
+    {
+      "id":88,
+      "id_wall":"088",
+      "nama_cat": "Free Fire Garena 5",
+      "judul":"EImage 8",
+      "image":"https://i.pinimg.com/564x/4a/6b/f1/4a6bf148607f00d1c0c53580709f15c6.jpg"
+    },
+    {
+      "id":89,
+      "id_wall":"089",
+      "nama_cat": "Free Fire Garena 5",
+      "judul":"EImage 9",
+      "image":"https://i.pinimg.com/564x/92/47/4e/92474e3d717ed51ad11c18b613453d4f.jpg"
+    },
+    {
+      "id":90,
+      "id_wall":"090",
+      "nama_cat": "Free Fire Garena 5",
+      "judul":"EImage 10",
+      "image":"https://cdn.idntimes.com/content-images/post/20190718/017-09db16a932d0d2a736085393027ebae0.jpg"
+    },
+	{
+      "id":101,
+      "id_wall":"101",
+      "nama_cat": "Free Fire Garena 6",
+      "judul":"FImage 1",
+      "image":"https://cdn.idntimes.com/content-images/post/20190718/016-068535a332da2e0ba6a91d1b2d52755f.jpg"
+    },
+    {
+      "id":102,
+      "id_wall":"102",
+      "nama_cat": "Free Fire Garena 6",
+      "judul":"FImage 2",
+      "image":"https://cdn.idntimes.com/content-images/post/20190718/020-f535f5ea2fb9fc7ef420b6ced14e8797.jpg"
+    },
+    {
+      "id":103,
+      "id_wall":"103",
+      "nama_cat": "Free Fire Garena 6",
+      "judul":"FImage 3",
+      "image":"https://cdn.idntimes.com/content-images/post/20190718/022-cd84cd25be52f77193a5517f9296439a.jpg"
+    },
+    {
+      "id":104,
+      "id_wall":"104",
+      "nama_cat": "Free Fire Garena 6",
+      "judul":"FImage 4",
+      "image":"https://cdn.idntimes.com/content-images/post/20190718/025-7f5dd4158523e2edf59f622efe9b709f.jpg"
+    },
+    {
+      "id":105,
+      "id_wall":"105",
+      "nama_cat": "Free Fire Garena 6",
+      "judul":"FImage 5",
+      "image":"https://cdn.idntimes.com/content-images/post/20190718/035-0c5674633d7979dbba546800af7ca704.jpg"
+    },
+    {
+      "id":106,
+      "id_wall":"106",
+      "nama_cat": "Free Fire Garena 6",
+      "judul":"FImage 6",
+      "image":"https://cdn.idntimes.com/content-images/post/20190718/040-0aed4da9f6971d92ebd2799e3813dbc2.jpg"
+    },
+	{
+      "id":107,
+      "id_wall":"107",
+      "nama_cat": "Free Fire Garena 6",
+      "judul":"FImage 7",
+      "image":"https://cdn.idntimes.com/content-images/post/20190718/037-743f422c940688ff3da92bddc8c1f474.jpg"
+    },
+    {
+      "id":108,
+      "id_wall":"108",
+      "nama_cat": "Free Fire Garena 6",
+      "judul":"FImage 8",
+      "image":"https://cdn.idntimes.com/content-images/post/20190718/046-05e1b91dcf2609636c47ce11f99443ba.jpg"
+    },
+    {
+      "id":109,
+      "id_wall":"109",
+      "nama_cat": "Free Fire Garena 6",
+      "judul":"FImage 9",
+      "image":"https://cdn.idntimes.com/content-images/post/20190718/045-1-4ebe06b235729d3209cbddeca15e272f.jpg"
+    },
+    {
+      "id":110,
+      "id_wall":"110",
+      "nama_cat": "Free Fire Garena 6",
+      "judul":"FImage 10",
+      "image":"https://cdn.idntimes.com/content-images/post/20190718/014-71e1dc2e45009e5a3cc6c45b6abad69e.jpg"
+    }
+
+  ]
+}
